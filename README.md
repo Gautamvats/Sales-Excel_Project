@@ -7,10 +7,11 @@ Developed an interactive Bike Sales Excel dashboard using advanced features like
 
 ### Tools
 **MS Excel**
+- Power Query - Data Cleaning & Transformation
+- Pivot Tables - Data Analysis
+- Pivot Charts - Visualization & Creating Report
 
-Power Query - Data Cleaning & Transformation
-Pivot Tables - Data Analysis
-Pivot Charts - Visualization & Creating Report
+<BR>
 
 ### Pictures of the Report
 
